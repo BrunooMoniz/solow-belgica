@@ -1,0 +1,26 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      ln_gdp_per_capita   R-squared:                       0.991
+Model:                            OLS   Adj. R-squared:                  0.991
+Method:                 Least Squares   F-statistic:                     3466.
+Date:                Sat, 31 May 2025   Prob (F-statistic):           1.55e-63
+Time:                        12:55:54   Log-Likelihood:                 122.85
+No. Observations:                  64   AIC:                            -239.7
+Df Residuals:                      61   BIC:                            -233.2
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=========================================================================================
+                            coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------------
+const                     6.8413      0.126     54.131      0.000       6.589       7.094
+ln_capital_per_capita     0.1910      0.015     12.828      0.000       0.161       0.221
+ln_education              0.4734      0.021     22.905      0.000       0.432       0.515
+==============================================================================
+Omnibus:                        0.892   Durbin-Watson:                   0.387
+Prob(Omnibus):                  0.640   Jarque-Bera (JB):                0.666
+Skew:                          -0.250   Prob(JB):                        0.717
+Kurtosis:                       2.975   Cond. No.                         335.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
