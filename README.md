@@ -2,6 +2,8 @@
 
 Este projeto implementa o modelo de Solow com capital humano para a Bélgica, utilizando dados de PIB per capita, investimento em capital, força de trabalho e anos esperados de escolaridade.
 
+Vídeo sobre o trabalho: https://youtu.be/EcgMg5JjiYs
+
 Para o trabalho completo, acesse: https://ecwhaxlr.manus.space/#introducao
 
 ## Estrutura do Projeto
